@@ -8,7 +8,7 @@ name_list = []
 first_name_flag  = 0
 last_name_flag = 0
 flag = 0
-name_inlist = 0
+
 
 for j in range(n):
     if first_name_flag == 1 and last_name_flag == 1:
